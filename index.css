@@ -1,0 +1,17 @@
+body {
+    font-family: 'Londrina Solid', cursive;
+}
+
+.responsive-img{
+    margin-top: 15px;
+}
+
+.logo {
+    margin-top: -5px;
+    margin-left: 10px;
+}
+
+
+.songButton:hover {
+    background-color:gray;
+}
